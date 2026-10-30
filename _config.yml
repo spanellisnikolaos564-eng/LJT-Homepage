@@ -14,7 +14,6 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
 url                      : https://spanellisnikolaos564-eng.github.io # The base hostname & protocol for your site
-timezone                 : Etc/UTC
 baseurl                  : "/LJT-Homepage" # the subpath of your site
 repository               : "spanellisnikolaos564-eng/LJT-Homepage"
 
@@ -134,7 +133,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : # Social media default site image (lives in /images/)
-og_description           : &description "Junteng Liu's academic portfolio"
+og_description           : "Junteng Liu's academic portfolio"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
